@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ferrari"
+        android:title="Ferrari"/>
+
+    <item
+        android:id="@+id/porche"
+        android:title="Porche"/>
+
+    <item
+        android:id="@+id/audi"
+        android:title="Audi"/>
+
+    <item
+        android:id="@+id/bmw"
+        android:title="BMW"/>
+
+    <item
+        android:id="@+id/supra"
+        android:title="Toyota Supra"/>
+
+</menu>
